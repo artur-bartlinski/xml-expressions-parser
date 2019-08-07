@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expressions>
+    <expression>
+        <divide>
+            <multiply>
+                <number>2</number>
+                <number>8</number>
+            </multiply>
+            <number>0</number>
+        </divide>
+    </expression>
+</expressions>
